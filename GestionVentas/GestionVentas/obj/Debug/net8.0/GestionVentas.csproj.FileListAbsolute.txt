@@ -1,0 +1,14 @@
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\bin\Debug\net8.0\GestionVentas.exe
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\bin\Debug\net8.0\GestionVentas.deps.json
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\bin\Debug\net8.0\GestionVentas.runtimeconfig.json
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\bin\Debug\net8.0\GestionVentas.dll
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\bin\Debug\net8.0\GestionVentas.pdb
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\obj\Debug\net8.0\GestionVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\obj\Debug\net8.0\GestionVentas.AssemblyInfoInputs.cache
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\obj\Debug\net8.0\GestionVentas.AssemblyInfo.cs
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\obj\Debug\net8.0\GestionVentas.csproj.CoreCompileInputs.cache
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\obj\Debug\net8.0\GestionVentas.dll
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\obj\Debug\net8.0\refint\GestionVentas.dll
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\obj\Debug\net8.0\GestionVentas.pdb
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\obj\Debug\net8.0\GestionVentas.genruntimeconfig.cache
+C:\Users\mario\Downloads\iiiooo\GestionVentas\GestionVentas\obj\Debug\net8.0\ref\GestionVentas.dll
